@@ -5,5 +5,6 @@ public class program {
         System.out.println("4+5");
         System.out.println(6+5);
         System.out.println("Kunal"+4);
+        System.out.println();
     }
 }
