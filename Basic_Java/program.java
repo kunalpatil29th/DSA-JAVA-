@@ -6,5 +6,6 @@ public class program {
         System.out.println(6+5);
         System.out.println("Kunal"+4);
         System.out.println();
+        System.out.println("Kunal"+0.2);
     }
 }
