@@ -1,9 +1,7 @@
 public class DataTypesDemo {
     public static void main(String[] args) {
         
-        // ==========================================
-        // 1. PRIMITIVE DATA TYPES (8 Total)
-        // ==========================================
+     
 
         // byte: 1 byte (8 bits), stores whole numbers from -128 to 127
         byte age = 25;
