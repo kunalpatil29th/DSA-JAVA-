@@ -8,6 +8,9 @@ public class program {
         System.out.println("Kunal"+4);
         System.out.println();
         System.out.println("Kunal"+0.2);
+        System.out.println("Rohit"+5.0);
         // all function are some
     }
 }
+
+
