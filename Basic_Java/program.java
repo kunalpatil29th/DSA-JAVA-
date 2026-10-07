@@ -9,7 +9,7 @@ public class program {
         System.out.println();
         System.out.println("Kunal"+0.2);
         System.out.println("Rohit"+5.0);
-        System.out.println("Rohit sharma = + ", "kunal");
+        
         // all function are some
     }
 }
